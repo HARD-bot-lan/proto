@@ -115,10 +115,10 @@ const Index = () => {
   <span className="text-lg">15 Mai 2025</span>
 </div>
               {/* Location */}
-              <a href="https://maps.app.goo.gl/FL1xKfJGaiMFQsS88" target="_blank" rel="noopener noreferrer">
+              <a href="https://maps.app.goo.gl/7XmBTM5BqLh8vRH56" target="_blank" rel="noopener noreferrer">
   <div className="flex items-center gap-3 bg-white/10 px-6 py-3 rounded-full backdrop-blur-sm hover:bg-white/20 hover:scale-105 transition-all duration-300">
     <MapPin className="w-6 h-6" />
-    <span className="text-lg">Ecole Mohammadia d'Ingénieurs</span>
+    <span className="text-lg">Présidence de l’Université Mohammed V de Rabat</span>
   </div>
 </a>
             </div>
