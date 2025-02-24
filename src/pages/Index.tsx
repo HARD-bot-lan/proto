@@ -146,7 +146,7 @@ const Index = () => {
         <div className="flex flex-col md:flex-row gap-6 items-start animate-fade-up hover:transform hover:scale-[1.02] transition-all duration-300">
           {/* Date Card */}
           <div className="bg-gradient-to-br from-primary-100 to-primary-200 rounded-xl p-6 min-w-[140px] text-center shadow-sm">
-            <div className="font-bold text-primary-700 text-lg">13 Avril</div>
+            <div className="font-bold text-primary-700 text-lg">11 Avril</div>
             <div className="text-primary-600 text-sm">2025</div>
           </div>
           {/* Content Card */}
