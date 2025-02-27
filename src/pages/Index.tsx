@@ -285,7 +285,7 @@ const Index = () => {
         </p>
         <div className="inline-flex items-center gap-2 text-white hover:text-primary-200 transition-colors">
           <Mail className="w-5 h-5" />
-          <a href="mailto:emminovtech@emi.ac.ma" className="hover:underline">
+          <a href="mailto:cit-eminovtech@emi.ac.ma" className="hover:underline">
             cit-eminovtech@emi.ac.ma
           </a>
         </div>
